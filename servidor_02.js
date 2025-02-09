@@ -12,7 +12,7 @@ let productos = [
     { id: 3, nombre: 'Son of the forest', precio: 25 },
     { id: 4, nombre: 'Human fall flat', precio: 10 },
     { id: 5, nombre: 'Overwatch', precio: 30 },
-]
+];
 
 //Codigos de estado de respuesta
 
